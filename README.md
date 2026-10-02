@@ -1,24 +1,38 @@
-# Fundamentos-de-la-programaci-n# Fundamentos de Programación — 1º DAM
+[README.md](https://github.com/user-attachments/files/32965912/README.md)
+# Fundamentos de Programación — 1º DAM
 
 Repositorio de apuntes, ejercicios y prácticas de la asignatura **Fundamentos de Programación**, del primer curso del ciclo formativo de grado superior **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
-## 📖 Descripción 
+## 📖 Descripción
 
 Esta asignatura introduce los conceptos básicos de la programación estructurada y orientada a objetos utilizando **Java** como lenguaje principal. Es la base sobre la que se sustentan el resto de asignaturas del ciclo.
 
-#:)9))))))))))))))))))
+## 🗂️ Contenidos del curso
 
-- LA VIDA ,ME F*** DURO PERO ASI ES COMO ME GUSTA K ME DEN 
+- **Tema 01 — Variables y operadores**
   - Tipos de datos primitivos
   - Declaración e inicialización de variables
   - Operadores aritméticos, relacionales y lógicos
-  - Entrad AAAAAAAAAAAAAAAAAAA
+  - Entrada de datos por teclado (`Scanner`)
+  - Formateo de salida (`printf`)
+- **Tema 02 — Estructuras de control**
+  - Condicionales (`if`, `else`, `switch`)
+  - Bucles (`for`, `while`, `do-while`)
+- **Tema 03 — Arrays y colecciones**
+  - Arrays unidimensionales y multidimensionales
+  - Introducción a `ArrayList`
+- **Tema 04 — Métodos**
+  - Definición y uso de métodos
+  - Parámetros, retorno y sobrecarga
+- **Tema 05 — Programación Orientada a Objetos (POO)**
+  - Clases y objetos
+  - Atributos y métodos
   - Encapsulación, herencia y polimorfismo
 - **Tema 06 — Excepciones**
   - Manejo de errores con `try/catch`
   - Excepciones personalizadas
 
-> ERES PERFECTA XOXO
+> Ajusta este índice a los temas reales que marque tu profesor/a o el currículo de tu centro.
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -46,7 +60,8 @@ Cada carpeta de tema contiene los ejercicios resueltos, nombrados con el patrón
 ## ▶️ Cómo ejecutar un ejercicio
 
 1. Clona el repositorio:
-   ```bashithub.com/tu-usuario/fundamentos-programacion-1dam.git
+   ```bash
+   git clone https://github.com/tu-usuario/fundamentos-programacion-1dam.git
    ```
 2. Abre la carpeta del tema correspondiente en tu IDE.
 3. Compila y ejecuta la clase deseada:
@@ -55,13 +70,12 @@ Cada carpeta de tema contiene los ejercicios resueltos, nombrados con el patrón
    java NombreClase
    ```
 
-FELIZ CUMPLEEEEEE XOXO TE KAMELO 
+## ✅ Objetivos de aprendizaje
 
 - Comprender la lógica de programación y el diseño de algoritmos.
 - Dominar la sintaxis básica de Java.
 - Aplicar estructuras de control y datos para resolver problemas.
-   git clone https://g
-- Iniciarse en los principios de la Program## ✅ Objetivos de aprendizajeación Orientada a Objetos.
+- Iniciarse en los principios de la Programación Orientada a Objetos.
 
 ## 👤 Autor
 
